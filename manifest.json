@@ -1,0 +1,15 @@
+{
+  "name": "To Do List",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "todo.html",
+    "default_icon": "todo.png"
+  },
+  "icons":{
+    "16": "todo.png",
+    "48": "todo.png",
+    "128": "todo.png"
+  },
+  "permissions": []
+}
